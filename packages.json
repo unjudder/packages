@@ -1,7 +1,7 @@
 {
 	"includes": {
-		"js/dojo.json": {
-			"sha1": "82f5819f87b24273c82af53037e73562ed8e6407"
-		} 
+		"js/dojotoolkit.json": {
+			"sha1": "17a8d7c967805370bb636fa17aa85697e4d212f6"
+		}
 	}
 }

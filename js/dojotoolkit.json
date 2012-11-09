@@ -1,0 +1,14 @@
+{
+	"packages" : {
+		"dojotoolkit/dojotoolkit": {
+			"1.8.1": {
+				"name": "dojotoolkit/dojotoolkit",
+				"version": "1.8.1",
+				"dist": {
+					"url": "http://download.dojotoolkit.org/release-1.8.1/dojo-release-1.8.1-src.tar.gz",
+					"type": "tar"
+				}
+			}
+		}
+	}
+}
