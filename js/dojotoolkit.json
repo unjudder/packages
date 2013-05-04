@@ -16,6 +16,14 @@
 					"url": "http://download.dojotoolkit.org/release-1.8.3/dojo-release-1.8.3-src.tar.gz",
 					"type": "tar"
 				}
+			},
+			"1.9.0": {
+				"name": "dojotoolkit/dojotoolkit",
+				"version": "1.9.0",
+				"dist": {
+					"url": "http://download.dojotoolkit.org/release-1.9.0/dojo-release-1.9.0-src.tar.gz",
+					"type": "tar"
+				}
 			}
 		}
 	}
