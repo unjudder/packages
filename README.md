@@ -23,4 +23,13 @@ Packages
   <tr>
     <td>dojo/toolkit</td><td>1.8.1</td>
   </tr>
+  <tr>
+    <td>dojo/toolkit</td><td>1.8.3</td>
+  </tr>
+  <tr>
+    <td>dojo/toolkit</td><td>1.9.0</td>
+  </tr>
+  <tr>
+    <td>dojo/toolkit</td><td>1.9.1</td>
+  </tr>
 </table>
