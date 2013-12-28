@@ -32,4 +32,7 @@ Packages
   <tr>
     <td>dojo/toolkit</td><td>1.9.1</td>
   </tr>
+  <tr>
+    <td>dojo/toolkit</td><td>1.9.2</td>
+  </tr>
 </table>

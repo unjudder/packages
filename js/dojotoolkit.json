@@ -32,6 +32,14 @@
 					"url": "http://download.dojotoolkit.org/release-1.9.1/dojo-release-1.9.1-src.tar.gz",
 					"type": "tar"
 				}
+			},
+			"1.9.2": {
+				"name": "dojotoolkit/dojotoolkit",
+				"version": "1.9.2",
+				"dist": {
+					"url": "http://download.dojotoolkit.org/release-1.9.2/dojo-release-1.9.2-src.tar.gz",
+					"type": "tar"
+				}
 			}
 		}
 	}
