@@ -35,4 +35,7 @@ Packages
   <tr>
     <td>dojo/toolkit</td><td>1.9.2</td>
   </tr>
+  <tr>
+    <td>dojo/toolkit</td><td>1.10.0</td>
+  </tr>
 </table>
