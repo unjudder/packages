@@ -48,6 +48,14 @@
 					"url": "http://download.dojotoolkit.org/release-1.10.0/dojo-release-1.10.0-src.tar.gz",
 					"type": "tar"
 				}
+			},
+			"1.10.1": {
+				"name": "dojotoolkit/dojotoolkit",
+				"version": "1.10.1",
+				"dist": {
+					"url": "http://download.dojotoolkit.org/release-1.10.1/dojo-release-1.10.1-src.tar.gz",
+					"type": "tar"
+				}
 			}
 		}
 	}
